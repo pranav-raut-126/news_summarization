@@ -296,6 +296,7 @@ http://localhost:8500
 **Pranav Raut**
 
 B.Sc. Data Science | CGPA: 9.4/10
+
 Bunts Sangha's S.M. Shetty College of Science, Commerce and Management Studies, Mumbai
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavraut126/)
