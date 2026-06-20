@@ -244,8 +244,8 @@ ROUGE Evaluation
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/NewsNuggets.git
-cd NewsNuggets
+git clone https://github.com/pranav-raut-126/news_summarization.git
+cd news_summarization
 ```
 ### 2. Install Dependencies
 
