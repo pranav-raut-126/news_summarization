@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+
+# Ignore all model files
+models/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
